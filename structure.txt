@@ -1,0 +1,5 @@
+AI_Powered_Gym_Exercise_Tracker/
+├── main.py
+├── tracker.py
+├── requirements.txt
+└── README.md
